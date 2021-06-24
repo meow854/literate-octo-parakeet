@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    border-width: 5px;
+    border-color: rgb(14, 187, 149);
+    background-color: rgb(213, 255, 242);
+    border-radius: 5px;
+    border-style: inset;
+    width: 1000px;
+    margin-left: 400px;
+}
+button{
+    border-width: 3px;
+    border-color: rgb(17, 194, 194);
+    border-radius: 20px;
+    background-color: rgb(176, 255, 229);
+    border-style: groove;
+    height: 40px;
+    width: 110px;
+    font-size: 17px;
+    color: rgb(65, 116, 117);
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+p{
+    font-size: 50px;
+    color: rgb(39, 109, 86);
+}
+h2{
+    color: rgb(44, 93, 95);
+}
